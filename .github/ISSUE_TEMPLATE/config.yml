@@ -1,6 +1,6 @@
 contact_links:
-  - name: Сообщить о проблеме
-    url: https://github.com/Total-War/total-war-issues/issues/new/choose
+  - name: Сообщить о угрозе безопасности
+    url: https://discord.gg/bSygc9mFxT
     about: О серьезных проблемах сообщайте лично главам и кодерам в Discord.
   - name: Предложить фичу
     url: https://discord.gg/bSygc9mFxT
